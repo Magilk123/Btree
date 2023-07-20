@@ -1,1 +1,2 @@
-git is a version control tool, that track and manage changes
+git is an open source distributed version control tool, that track and manage changes
+
